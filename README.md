@@ -1,1 +1,1 @@
-# gfg-portfolio-website
+# GFG-portfolio-website
